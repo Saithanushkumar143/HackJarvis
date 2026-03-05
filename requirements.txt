@@ -1,0 +1,50 @@
+# ═══════════════════════════════════════════════════════
+#  JARVIS — Requirements (Python 3.13 Compatible)
+#  Install via: install.bat  (NOT pip install -r directly)
+# ═══════════════════════════════════════════════════════
+
+# Core AI
+google-generativeai>=0.8.0
+
+# Voice TTS
+pyttsx3>=2.90
+
+# Speech Recognition (STT)
+SpeechRecognition>=3.10.0
+
+# WebSocket bridge
+websockets>=12.0
+
+# Desktop control
+pyautogui>=0.9.54
+pynput>=1.7.6
+psutil>=5.9.0
+
+# Camera / Hand Gestures
+opencv-python>=4.8.0
+mediapipe>=0.10.14
+
+# Search / Web
+requests>=2.31.0
+wikipedia>=1.4.0
+pywhatkit>=5.4.0
+beautifulsoup4>=4.12.0
+
+# Translation (deep-translator is Python 3.13 safe, unlike googletrans)
+deep-translator>=1.11.4
+gTTS>=2.5.0
+
+# NLP
+textblob>=0.18.0
+
+# Utils
+python-dotenv>=1.0.0
+geopy>=2.4.0
+Pillow>=10.4.0
+plyer>=2.1.0
+schedule>=1.2.0
+pyperclip>=1.8.2
+httpx>=0.27.0
+speedtest-cli>=2.1.3
+wolframalpha>=5.0.0
+playsound==1.2.2

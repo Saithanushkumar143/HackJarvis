@@ -1,0 +1,78 @@
+{
+  "name": "Sir",
+  "birthday": null,
+  "facts": [],
+  "preferences": [],
+  "dislikes": [],
+  "reminders": [],
+  "mood_history": [],
+  "conversation_history": [
+    {
+      "user": "wake up Jarvis",
+      "jarvis": "I'm in offline mode right now, so my AI brain is limited. But I can still help with PC control, music, and local tasks!",
+      "time": "2026-03-05 00:16"
+    },
+    {
+      "user": "wake up",
+      "jarvis": "I'm in offline mode right now, so my AI brain is limited. But I can still help with PC control, music, and local tasks!",
+      "time": "2026-03-05 00:30"
+    },
+    {
+      "user": "wake up Jarvis",
+      "jarvis": "I'm in offline mode right now, so my AI brain is limited. But I can still help with PC control, music, and local tasks!",
+      "time": "2026-03-05 00:41"
+    },
+    {
+      "user": "backup Jarvis",
+      "jarvis": "I'm in offline mode right now, so my AI brain is limited. But I can still help with PC control, music, and local tasks!",
+      "time": "2026-03-05 00:44"
+    },
+    {
+      "user": "wake up Jarvis",
+      "jarvis": "I'm in offline mode right now, so my AI brain is limited. But I can still help with PC control, music, and local tasks!",
+      "time": "2026-03-05 00:54"
+    },
+    {
+      "user": "actually participating registration",
+      "jarvis": "I'm in offline mode right now, so my AI brain is limited. But I can still help with PC control, music, and local tasks!",
+      "time": "2026-03-05 10:12"
+    },
+    {
+      "user": "lekhak",
+      "jarvis": "I'm in offline mode right now, so my AI brain is limited. But I can still help with PC control, music, and local tasks!",
+      "time": "2026-03-05 10:15"
+    },
+    {
+      "user": "wake up",
+      "jarvis": "I'm in offline mode right now, so my AI brain is limited. But I can still help with PC control, music, and local tasks!",
+      "time": "2026-03-05 10:20"
+    },
+    {
+      "user": "makeup",
+      "jarvis": "I'm in offline mode right now, so my AI brain is limited. But I can still help with PC control, music, and local tasks!",
+      "time": "2026-03-05 10:47"
+    },
+    {
+      "user": "wake up",
+      "jarvis": "I'm in offline mode right now, so my AI brain is limited. But I can still help with PC control, music, and local tasks!",
+      "time": "2026-03-05 10:57"
+    },
+    {
+      "user": "wake up",
+      "jarvis": "I'm in offline mode right now, so my AI brain is limited. But I can still help with PC control, music, and local tasks!",
+      "time": "2026-03-05 11:03"
+    },
+    {
+      "user": "wake up",
+      "jarvis": "I'm in offline mode right now, so my AI brain is limited. But I can still help with PC control, music, and local tasks!",
+      "time": "2026-03-05 11:06"
+    }
+  ],
+  "daily_notes": {},
+  "contacts": {},
+  "tasks": [],
+  "topics_interested": [],
+  "last_seen": "2026-03-05T11:06:16.424308",
+  "total_interactions": 12,
+  "created_at": "2026-03-05T00:16:13.009495"
+}
